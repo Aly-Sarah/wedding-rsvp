@@ -311,7 +311,7 @@
   <div class="wedding-wrapper">
     
     <div class="hero-section">
-      <img src="./WhatsApp%20Image%202026-07-23%20at%201.04.38%20PM.jpeg" alt="Aly & Sarah" class="hero-photo">
+      <img src="./WhatsApp%20Image%202026-07-23%20at%201.13.55%20PM.jpeg" alt="Aly & Sarah" class="hero-photo">
     </div>
 
     <div class="names-header">
